@@ -1,3 +1,58 @@
 # NOW & STEADY
-now-steady.github.io <br>
-This is my first website to explain my hoody.
+<!DOCTYPE html>
+
+<html>
+	<head>
+		<title>NOW & STEADY</title>
+		<meta charset="utf-8">
+		<link rel="stylesheet" type="text/css" href="css/style.css">
+		<link href="https://fonts.googleapis.com/css?family=Do+Hyeon&display=swap" rel="stylesheet">
+	</head>
+
+<body>
+	<h1> <b>NOW & STEADY.</b> </h1>
+	<img src="images/ice_cream.jpg" width="300">
+
+	<h2> welcome to my new year resolution! </h2>
+	<p> 안녕하세요!<br> 
+	저의 두번째 작업물을 구매 해주셔서 무척 감사 드립니다.<br>
+	이번 작업물은 후드티 입니다. 사실 많은 분들이 후드티 요청을 많이 해주셨어요.
+	저도 사실 많이 하고 싶었지만 바쁘다는 핑계로 미루고만 있었네요. <br>
+	<br>
+	이번 후드티의 주제는 저의 신년 다짐 입니다. <br>
+	원래 신념 다짐 같은 것들은 세우지도 않을 뿐더러 마음에 와닿는 편도 아닌 사람인데
+	이렇게 신년 다짐이라는 것을 세우게 되었습니다.<br>
+	<br>
+	고민과 주저함이 넘치던 저는 2019년을 지내면서 <br> 
+	하고 싶고, 생각나는 일들에 대해<br> 
+	<br>
+	<span class="white">
+	<b>1. 고민을 줄이고, 지금 실행해야 한다는 것.<br>
+	2. 무엇이든 시도해야 결과와 성격을 안다는 점들을 배웠습니다.</b></span><br>
+	<br>
+	그리고 그런 시작들을 많이 하는 작년이었고,<br>
+	그런 시작들을 저의 것으로 만들기 위해 고민했습니다.<br>
+	하지만 희한하게도 수많은 시작들이 알게 모르게 쌓이긴 하지만
+	저의 것이라 느끼기엔 부족한 점들이 많았습니다.<br>
+	<br>
+	왜 그런가 돌아봤을 때, 그런 시작들이 스스로에게 쌓이기 위해서는
+	크기와 상관없는 꾸준함이 필요하다고 느끼게 되었습니다.
+	반짝 며칠, 몇개월 하는 것들은 그저 맛보기에 불과하고
+	저의 것으로 체화시키기 위해서는 반복과 지속이 필요했습니다.
+	그래서 저는 지금도 배운 것들을 지속적으로 적용 해보고 시도 해보고
+	꾸준함을 가져가야만 스스로의 것이 된다고 믿고 있습니다.<br>
+	<br>
+	그리하여 이번 신년 다짐을<br>
+	<br>
+	<span class="white">
+	<b>NOW = 지금 시작하고,<br>
+	STEADY = 꾸준히 하자 로 정했습니다.</b></span><br>
+	<br>
+	그리고 그런 다짐을 이어받아 저의 작품들을 꾸준히 이어나가고자 2차 작업물을 내게 되었습니다.뿐만 아니라 새해에 저의 일에 필요했고 평소에 궁금했던 코딩을 꾸준히 배우고
+	지속적으로 시도 하자는 다짐에서 이렇게 작품 설명서를 웹페이지로 제작하게 되었습니다.<br>
+	<br>
+	부디 저의 다짐들을 전부는 아니더라도 조금이나마 공감하고
+	크기에 상관 없는 시도와 꾸준함들을 가져가는 한해가 되길 진심으로 바랍니다! :))<b
+
+	</p>	
+</body>
