@@ -1,0 +1,45 @@
+h1 {
+	text-align: center;
+	margin-top: 70px;
+	margin bottom: 70px;
+	font-size: 64px;
+	text-decoration: underline;
+	font-family: "futura";
+}
+
+img {
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 50px;
+	margin-bottom: 50px;
+	display: block;
+}
+
+h2 {
+	text-align: center;
+	margin-top: 70px;
+	margin bottom: 70px;
+	font-size: 40px;
+	font-family: "futura";
+	background-color: #fc3110;
+}
+
+p {
+	text-align: left;
+	margin-top: 50px;
+	margin-bottom: 50px;
+	font-size: 25px;
+	display: block;
+	background-color: #3ab0c2;
+	border-radius: 50px;
+	padding: 50px;
+	width: 500px;
+	margin-left: auto;
+	margin-right: auto;
+	font-family: 'Do Hyeon', sans-serif;
+}
+
+.white {
+	color: white;
+}
+
